@@ -15916,12 +15916,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\Clone\\webrtc\\PeerCC-Sample\\PeerConnectionClient.WebRtc.csproj",
+      "projectUniqueName": "D:\\Clone\\webrtc\\gitupload\\webrtchololens\\PeerConnectionClient.WebRtc.csproj",
       "projectName": "PeerConnectionClient.WebRtc",
-      "projectPath": "D:\\Clone\\webrtc\\PeerCC-Sample\\PeerConnectionClient.WebRtc.csproj",
-      "projectJsonPath": "D:\\Clone\\webrtc\\PeerCC-Sample\\project.json",
+      "projectPath": "D:\\Clone\\webrtc\\gitupload\\webrtchololens\\PeerConnectionClient.WebRtc.csproj",
+      "projectJsonPath": "D:\\Clone\\webrtc\\gitupload\\webrtchololens\\project.json",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Clone\\webrtc\\PeerCC-Sample\\obj\\",
+      "outputPath": "D:\\Clone\\webrtc\\gitupload\\webrtchololens\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
