@@ -1,0 +1,1 @@
+D:\Clone\webrtc\PeerCC-Sample\App\PeerCC-Sample\PeerCC-Sample.csproj;x86

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerCC-Sample", "PeerCC-Sample.csproj", "{CF13C759-9C8D-2ECB-693B-234D9843E667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerCC-Sample.Editor", "PeerCC-Sample.Editor.csproj", "{47927A8E-8B57-265D-3E1F-4936AED8B0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF13C759-9C8D-2ECB-693B-234D9843E667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF13C759-9C8D-2ECB-693B-234D9843E667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF13C759-9C8D-2ECB-693B-234D9843E667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF13C759-9C8D-2ECB-693B-234D9843E667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47927A8E-8B57-265D-3E1F-4936AED8B0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47927A8E-8B57-265D-3E1F-4936AED8B0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47927A8E-8B57-265D-3E1F-4936AED8B0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47927A8E-8B57-265D-3E1F-4936AED8B0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
